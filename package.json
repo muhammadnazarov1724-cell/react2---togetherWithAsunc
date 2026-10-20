@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
     "@hookform/resolvers": "^6.0.0",
+    "@mui/material": "^9.5.0",
     "@reduxjs/toolkit": "^2.13.0",
+    "axios": "^1.20.0",
+    "effect": "^4.0.5",
     "jotai": "^3.0.1",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
